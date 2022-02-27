@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cavaliers jubilee: or, long look'd for come at last: viz. the generall pardon. In a pleasant dialogue between Sir Timothy Turn-coat, and Sir Rowland Resolute, two cavaliers that met accidentally, and were lately come over from beyond sea, upon the noise of the generall pardon, and their resolution to leave the service of the young Charles Stuart, and imbrace the Parliaments protection in their gracious act of oblivion. Together with the condolement of the late made lords and knights for the losse of their honors which they received from the late King and his son, for the rebellion against the Parliament, and acting against their country, by that late just Act of Parliament for the disanulment of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78405</idno>
+            <idno type="STC">Wing C1574</idno>
+            <idno type="STC">Thomason E655_25</idno>
+            <idno type="STC">ESTC R205967</idno>
+            <idno type="EEBO-CITATION">99865181</idno>
+            <idno type="PROQUEST">99865181</idno>
+            <idno type="VID">166075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166075)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cavaliers jubilee: or, long look'd for come at last: viz. the generall pardon. In a pleasant dialogue between Sir Timothy Turn-coat, and Sir Rowland Resolute, two cavaliers that met accidentally, and were lately come over from beyond sea, upon the noise of the generall pardon, and their resolution to leave the service of the young Charles Stuart, and imbrace the Parliaments protection in their gracious act of oblivion. Together with the condolement of the late made lords and knights for the losse of their honors which they received from the late King and his son, for the rebellion against the Parliament, and acting against their country, by that late just Act of Parliament for the disanulment of them.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley at Paul's Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 8"; The "2" in the imprint date is crossed out and "1651" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English wit and humor --  Early works to 1800.</term>
+               <term>Pardon --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166075:1" rendition="simple:additions"/>
+            <p>THE CAVALIERS JUBILEE: OR, Long look'd for come at laſt: <hi>viz. THE GENERALL PARDON.</hi>
+            </p>
+            <p>In a pleaſant DIALOGUE BETWEEN Sir <hi>Timothy Turn-coat,</hi> and Sir <hi>Rowland Re<g ref="char:EOLhyphen"/>ſolute,</hi> two Cavaliers that met accidentally, and were lately come over from beyond Sea, upon the noiſe of the Generall Pardon, and their Reſolution to leave the ſervice of the young <hi>Charles Stuart,</hi> and imbrace the Parliaments protection in their gracious Act of Oblivion.</p>
+            <p>Together with the condolement of the late made Lords and Knights for the loſſe of their Honors which they received from the late King and his Son, for their rebellion againſt the Parliament, and acting againſt their Country, by that late juſt Act of Parliament for the diſanul<g ref="char:EOLhyphen"/>ment of them.</p>
+            <p>
+               <add>March .8. 1651</add> 
+               <hi>London:</hi> Printed for <hi>William Ley</hi> at PAUL'S Chain. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:166075:2"/>
+            <pb n="1" facs="tcp:166075:2"/>
+            <head>The Cavaliers Jubilee.</head>
+            <sp>
+               <speaker>Timothy.</speaker>
+               <p>HOneſt <hi>Rowland,</hi> well met in England once again; I doubted much we ſhould never have had this happi<g ref="char:EOLhyphen"/>neſſe to tread upon Engliſh ground, for I gave my ſelf for loſt, as many others have been already.</p>
+            </sp>
+            <sp>
+               <speaker>Rowland.</speaker>
+               <p>Well Noble heart, and fellow Cavalier, as I am glad to ſee thee, ſo my heart leaps for joy that I have this li<g ref="char:EOLhyphen"/>berty to live at home again; but ſince we are met, let's not part with dry lips, 'twas our cuſtome (thou knoweſt) to take off our taplaſh, though we have been laſh'd for't, and I have half a Crown left ſtill in my pocket; let's not part without fur<g ref="char:EOLhyphen"/>ther diſcourſe, ſince we are met ſo happily.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>With all my heart, for my Caſh is not yet all gone; on<g ref="char:EOLhyphen"/>ly let's put into ſome houſe, that we may ſpeak our minds freely, in ſome that favours the Cauſe of <hi>C. R.</hi> thou knoweſt what I mean Blade.</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>Wee'l take a houſe as it falls out, let's to this next, the ſign of the Black Boy, is't agreed?</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I am at your diſpoſe; now being here, from whence came you laſt, from France, or Flanders, I pray tell.</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>Ha! I have been wandering up and down, toſt from Poſt to Pillar ever ſince <hi>Colcheſter</hi> was given up; I went into Ireland amongſt the bogs, and woods, and wild Iriſh; and when we were ſoundly beaten there, I made a hard ſhift and got into Scotland, juſt out of the frying pan into the fire, amongſt the Crags and Rocks, with a great deale of hunger, cold, and lice, (where I found more cold then gold;) and when we were routed there, I made for the Low-Countreys, where I found but ſmall hopes to do any thing to advance my fortunes: words went high, and promiſes, but there were no performances, and ſo
+<pb n="2" facs="tcp:166075:3"/>I got into France, to Paris, but there I perceived was no ſtay without pay, many things were in agitation, but all fail'd in the execution; the old Stallion decayed Courtiers looked like old rotten Mountebanks, or Quackſalvers, or Rat-catchers, and findling that I ſhould ſtarve if I ſtayed, I reſolved to ſub<g ref="char:EOLhyphen"/>mit to a Compoſition at home, rather than loſe all for I know not what purpoſe; home is home, though it be never ſo home<g ref="char:EOLhyphen"/>ly, and ſo got over into England, and have finiſhed my Com<g ref="char:EOLhyphen"/>poſition pretty eaſily; which had I been as wiſe then, as I am ſince, I might have kept my ſtate and my skin both ſound, but 'tis too late to call again yeſterday, but aſſure thy ſelf, for time to come, they ſhall not find me at <hi>Dunbar</hi> or <hi>Worceſter</hi> for their young bonny Scotch King; if he be ſo mad after a Crown, let him take heed of a crack'd crown, for I'le tell thee, here are Lads that will not ſpare to ſtrike home, and to lay on, take it off who will, or dare.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I perceive then that you are reſolved to fight no more for that cauſe: well, ſhould I tell you my ſufferings, and tra<g ref="char:EOLhyphen"/>vells and marchings, and journeys from Countrey to Coun<g ref="char:EOLhyphen"/>trey, and what miſeries of hunger and cold, with wounds and impriſonment I have undergone, 'twould be paſt belief, I was ſo haſty, that I morgaged moſt of my eſtate to be furniſhed with moneys: Oh how I beſtirred my ſelf, to undo my ſelf, my wife, and children, to procure horſes, and Armes, and Ammu<g ref="char:EOLhyphen"/>nition, for thoſe which never gave me thanks, but help'd to devoure that which was left, in drunkenneſſe, whoredome, and rioting, (the common uſe and cuſtome of our Cavaliers:) I tell thee that I made more haſt then good ſpeed, and travers'd from one Garriſon to another, and rode from one fight to a<g ref="char:EOLhyphen"/>nother, and was wounded, and hack'd, and hued, and cut, and flaſhed, and yet for all this J never could be looked upon, nor <hi>Knighted, but rather ſlighted,</hi> which though if I had been, a Knight of Poſt had been almoſt as good as my ſelfe, but I thought over ſhoes, over boots, and at laſt I was after the bat<g ref="char:EOLhyphen"/>tell at York reſolved to ſteal out of the Land, and ſo I went with other Widgeons as wiſe as Woodcocks to cry up the Cauſe in Denmark, and to ſollicit for relief; but finding their
+<pb n="3" facs="tcp:166075:3"/>ſpirits dull and flegmatique, and not apt to take fire, I went with that money which I could procure, too too much to be ſpent in ſuch an unjuſt deſign, to Sweden, where I met with ſome of the old Stamp, but they all looked as though they had ſuffered ſhipwrack of faith, and a good conſcience, for a dozen of them could ſcarce furniſh a man with ſixpence, they ap<g ref="char:EOLhyphen"/>pear'd like birds that had been pull'd out of their feathers, or like bald Coots, or new ſhorn ſheep; it made me begin to ſhrink in my ſhoulders, and to think with my ſelf, that if I fol<g ref="char:EOLhyphen"/>lowed them, I ſhould expect the like preferment, to wear rags &amp; rottenneſſe, inſtead of robes or riches; J began to ſuſpect the juſtnes of the cauſe, which produced none but beggers &amp; banke<g ref="char:EOLhyphen"/>rupts, if it found them not ſo, it made them ſo, if not worſe; yet I was got in, and ſo muſt for Scotland with the crowd of Deſperadoes and Renegadoes, where when we had done what we could to ſet up a King of beggers; we were all-well pelted and pillaged, and ſcattered like Jews into all quarters (as we deſerved) but 'twas my ſhift to come to Worceſter, from whence J made a poor ſhift to eſcape, and ſo am here in this condition as thou ſeeſt, it's a poor Hare has but one Muſe.</p>
+               <p>Well, let's not be tedious in telling our own miſe<g ref="char:EOLhyphen"/>ries, what good news is now ſtirring?</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>All that is on foot now is of the Generall par<g ref="char:EOLhyphen"/>don, 'tis extant for certain.</p>
+               <p>May one rely upon it think you; well 'tis come out in as good a ſeaſon as could be, it's wonderfull that they ſhould be ſo gracious to us, who have been ſo bitter againſt them; I'le lay hold on it I promiſe you, and if ever they catch me a fighting for <hi>C. S.</hi> or <hi>C. R.</hi> again, let them hang me outright in the Iſle of Dogs, or at Cuckolds Haven.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I am glad to heare your diſpoſition ſo altered, for I did at firſt intend to doe what I could to diſ<g ref="char:EOLhyphen"/>ſwade you from that ſervice and company, and learne
+<pb n="4" facs="tcp:166075:4"/>to be wiſe e're it be too late. I my ſelfe was ſtiffe for the Cauſe, and was conceited that it was juſt, and as too many others, who had more wealth then wit, and were richer in Coyne then in Conſcience, did neither ſpare life or limb, nor gold and ſilver to advance it; but now let them fight for it; who liſt, they ſhall not find me there I'le warrant thee, for no wiſe man will make haſt to that Market where there's nothing to be had but blowes; of any that ever fought for it, none that came off, but with diſgrace, and ruine to their whole Families, ſuch onely excepted, whom it hath pleaſed the Parliament to pardon and for<g ref="char:EOLhyphen"/>give.</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>You have ſaid what's truth, and I am ſuffici<g ref="char:EOLhyphen"/>ently convinced in that particular, and ſhall draw off as far as I can from their bloudy imployment, for I perſwade my ſelfe, there's many of them doe what they doe in ignorance, ſome out of hopes of pre<g ref="char:EOLhyphen"/>ferment, and others of gaines (though moſt of malice) and deſire of revenge: for a Gentleman with<g ref="char:EOLhyphen"/>out meanes, is like a bag-pudding without ſuet; but their honors are moſt laid in the duſt, and themſelves in the dirt; and for their preferments, they are like thoſe the Popes were wont to beſtow great Titleson, but no Revenues, for a Feather is enough for a foole, and for their gaines they have got them over the left ſhoul<g ref="char:EOLhyphen"/>ders, the cleane contrary way; pounds laid out, and wounds brought home, tattered rags, and a torne skin; they may truely ſay, moſt of them have come home by weeping croſſe, if they came home at all.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:166075:4"/>
+               <speaker>Tim.</speaker>
+               <p>I deale plainly with thee, that I am ſorry for what I have done upon that account; and I adviſe thee, ſince we are met, to let's reſolve to accept of mer<g ref="char:EOLhyphen"/>cy, while 'tis ſo graciouſly and freely offered, be ſure to add no new treſpaſſes againſt our Magiſtrates, and to be ſo far from fighting againſt them, that we will be ready to venture our lives for them; and if <hi>C. S.</hi> be ſo mad for a Crowne, let him if he can get thither, go to the Rocks and Mountaines in Highland, and not skip to Worceſter againe, where he durſt not ſtay, be<g ref="char:EOLhyphen"/>cauſe of the fray, and where he truſted more to his heels, then his hands. <hi>Row.</hi> You ſay right, where he left all there, his Earls and new Knights to be ſpitlers, and Goal-birds; as once Queen <hi>Elizabeth</hi> told the Earle of <hi>Eſſex,</hi> when he had made ſo many Knights at Cadize, that he ſhould have done well firſt to have built Hoſpi<g ref="char:EOLhyphen"/>talls for them, for moſt of them came to beggery; and though I eſcaped there, yet now I dare not own, nor do I care for his pretended preferments and promiſes made to me, and to others, for I'le truſt to them no more then to the man in the Moone, one Parliament pardon is worth all his promiſed Penſions, for words are but wind, 'tis money that buyes Lands, and I hope to get my Lands againe before he gets his longed for Crowne; he may look after it, and yet never find it.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Pray what's become of all thoſe great Earles and Nobles which were made by <hi>Charles Stuart</hi> ſince the warre?</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>I tell thee, the moſt of them would be glad of a three penny Ordinary, they are not loaden ſo much with Jewells, and Chaines of Gold, as with Irons, and
+<pb n="6" facs="tcp:166075:5"/>we ſay to them, as once 'twas ſaid to thoſe Dutch Lords and Heres, who left the State and followed the King of Spain, farewell ye great Lords without Lands or Heads; and ſo as it befell, it hath come to paſſe to many of his upſtart Favorites.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I'le aſſure thee we have been miſled long en<g ref="char:EOLhyphen"/>ough, but to our comfort, long looked for is come at laſt, the Generall pardon; large enough if we embrace it, an <hi>ounce</hi> of peace is worth a <hi>pound</hi> of warre: I intend to come in, and once in againe, never out: I have hi<g ref="char:EOLhyphen"/>therto fought for a thing called his <hi>Standard,</hi> til I could not ſtand my ſelfe, and defended his <hi>Lions</hi> till I have made my ſelfe an <hi>Aſſe,</hi> and if I had followed them ſhould have made my ſelfe a begger, but <hi>actum eſt,</hi> let him and his look to themſelves, for I'le go buy the Ge<g ref="char:EOLhyphen"/>nerall Pardon, and look to my ſelfe, and thank my bet<g ref="char:EOLhyphen"/>teas for granting it to me.</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>Well, let's pay our reckoning and depart, and freely ſubmit our ſelves to this Government, that God may bleſſe our Parliament who eſtabliſhed it, and all thoſe who will live under it.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>Honeſt heart adieu; if you fight againſt the Par<g ref="char:EOLhyphen"/>liament thou wilt periſh, live under it, and proſper.</p>
+            </sp>
+            <sp>
+               <speaker>Row.</speaker>
+               <p>'Tis reſolved, I'le go home and hang up my ſword and my ſelf too, if ever I draw it againſt the Par<g ref="char:EOLhyphen"/>liament any more while I live.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
